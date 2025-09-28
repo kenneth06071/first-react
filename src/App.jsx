@@ -1,10 +1,12 @@
 import Hello from './assets/Hello.jsx'
-import Fruit from './assets/fruit.jsx'
+import Fruits from './assets/fruits.jsx'
+import ConditionalComponent from './assets/ConditionalComponent.jsx'
+import Message from './assets/Message.jsx'
 function App() {
   return( 
   <div calssName="App">
-    Hello CCW!
-    <Fruit />
+    Hello Elaine Chung!
+    <Message />
   </div>
   )
 }
